@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31f100d8-a63f-445b-abfb-900b91dd7b6e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.account.suspension.notification.task/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.account.suspension.notification.task/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.governance/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.governance/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/gen/java/org/wso2/carbon/identity/recovery/endpoint/SecurityQuestionApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/gen/java/org/wso2/carbon/identity/recovery/endpoint/SecurityQuestionsApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/gen/java/org/wso2/carbon/identity/recovery/endpoint/ValidateAnswerApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/gen/java/org/wso2/carbon/identity/recovery/endpoint/factories/SecurityQuestionApiServiceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/gen/java/org/wso2/carbon/identity/recovery/endpoint/factories/SecurityQuestionsApiServiceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/gen/java/org/wso2/carbon/identity/recovery/endpoint/factories/ValidateAnswerApiServiceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/main/java/org/wso2/carbon/identity/recovery/endpoint/Utils/RecoveryUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/main/java/org/wso2/carbon/identity/recovery/endpoint/Utils/RecoveryUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/main/java/org/wso2/carbon/identity/recovery/endpoint/impl/SecurityQuestionApiServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/main/java/org/wso2/carbon/identity/recovery/endpoint/impl/SecurityQuestionsApiServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/main/java/org/wso2/carbon/identity/recovery/endpoint/impl/ValidateAnswerApiServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/test/java/org/wso2/carbon/identity/recovery/endpoint/SecurityQuestionApiServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/test/java/org/wso2/carbon/identity/recovery/endpoint/ValidateAnswerApiServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.api.user.recovery/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.auth.attribute.handler/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.auth.attribute.handler/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.captcha/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.captcha/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.governance/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.governance/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.idle.account.identification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.idle.account.identification/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.multi.attribute.login/org.wso2.carbon.identity.multi.attribute.login.resolver.regex/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.multi.attribute.login/org.wso2.carbon.identity.multi.attribute.login.resolver.regex/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.multi.attribute.login/org.wso2.carbon.identity.multi.attribute.login.service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.multi.attribute.login/org.wso2.carbon.identity.multi.attribute.login.service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.multi.attribute.login/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.multi.attribute.login/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.password.expiry/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.password.expiry/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.password.history/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.password.history/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.password.policy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.password.policy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.piicontroller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.piicontroller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery.endpoint/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery.endpoint/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery.ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery.ui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/ChallengeQuestionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/bean/ChallengeQuestionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/bean/ChallengeQuestionsResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/handler/ChallengeAnswerValidationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/handler/request/PostAuthnMissingChallengeQuestionsHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/internal/IdentityRecoveryServiceComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/internal/IdentityRecoveryServiceComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/listener/TenantManagementListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/listener/TenantManagementListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/model/ChallengeQuestion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/model/UserChallengeAnswer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/password/SecurityQuestionPasswordRecoveryManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/services/ChallengeQuestionManagementAdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/util/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/main/java/org/wso2/carbon/identity/recovery/util/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.recovery/src/test/java/org/wso2/carbon/identity/recovery/handler/request/PostAuthnMissingChallengeQuestionsHandlerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.tenant.resource.manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.tenant.resource.manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.user.endpoint/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.user.endpoint/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.user.export.core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.user.export.core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../org.wso2.carbon.identity.user.rename.core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../org.wso2.carbon.identity.user.rename.core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.account.suspension.notification.task.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.account.suspension.notification.task.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.auth.attribute.handler.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.auth.attribute.handler.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.captcha.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.captcha.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.governance.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.governance.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.governance.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.governance.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.idle.account.identification.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.idle.account.identification.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.multi.attribute.login.service.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.multi.attribute.login.service.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.password.expiry.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.password.expiry.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.password.history.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.password.history.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.password.policy.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.password.policy.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.piicontroller.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.piicontroller.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.recovery.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.recovery.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.recovery.ui.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.recovery.ui.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.tenant.resource.manager.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.tenant.resource.manager.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.user.server.feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../features/org.wso2.carbon.identity.user.server.feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../service-stubs/identity/org.wso2.carbon.identity.recovery.stub/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../service-stubs/identity/org.wso2.carbon.identity.recovery.stub/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../service-stubs/identity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../service-stubs/identity/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2YOncCKMsEHSeiVIhsSvIyzOtuR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31f100d8-a63f-445b-abfb-900b91dd7b6e" name="Changes" comment="" />
+      <created>1700405571082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700405571082</updated>
+    </task>
+    <servers />
+  </component>
+</project>
