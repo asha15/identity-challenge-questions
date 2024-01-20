@@ -1,0 +1,12 @@
+org/wso2/carbon/identity/rest/api/server/challenge/v1/core/functions/ChallengeQuestionToExternal.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/ChallengesApiService.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/factories/ChallengesApiServiceFactory.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/ApiException.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/ChallengesApi.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/dto/ErrorDTO.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/impl/ChallengesApiServiceImpl.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/ApiResponseMessage.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/dto/ChallengeSetDTO.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/core/ServerChallengeService.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/dto/ChallengeQuestionPatchDTO.class
+org/wso2/carbon/identity/rest/api/server/challenge/v1/dto/ChallengeQuestionDTO.class

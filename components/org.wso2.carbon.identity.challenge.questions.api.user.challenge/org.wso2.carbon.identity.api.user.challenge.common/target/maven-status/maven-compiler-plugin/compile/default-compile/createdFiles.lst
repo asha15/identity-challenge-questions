@@ -1,0 +1,5 @@
+org/wso2/carbon/identity/api/user/challenge/common/ChallengeQuestionServiceHolder.class
+org/wso2/carbon/identity/api/user/challenge/common/factory/RealmServiceOSGIServiceFactory.class
+org/wso2/carbon/identity/api/user/challenge/common/factory/OSGIServiceFactory.class
+org/wso2/carbon/identity/api/user/challenge/common/Constant.class
+org/wso2/carbon/identity/api/user/challenge/common/Constant$ErrorMessage.class
