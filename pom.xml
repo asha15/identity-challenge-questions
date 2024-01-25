@@ -39,7 +39,6 @@
         <module>components/org.wso2.carbon.identity.challenge.questions.api.user.challenge</module>
         <module>components/org.wso2.carbon.identity.challenge.questions.api.user.recovery</module>
         <module>service-stubs/identity</module>
-<!--        <module>components/org.wso2.carbon.identity.challenge.questions.recovery</module>-->
     </modules>
 
     <repositories>

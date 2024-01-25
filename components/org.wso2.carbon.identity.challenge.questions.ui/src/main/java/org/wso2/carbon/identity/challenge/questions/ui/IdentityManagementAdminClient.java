@@ -67,7 +67,6 @@ public class IdentityManagementAdminClient {
         return new ChallengeQuestion[0];
     }
 
-
     public ChallengeQuestion[] getChallengeQuestionsForUser(User user) throws AxisFault {
 
         try {
@@ -89,7 +88,6 @@ public class IdentityManagementAdminClient {
 
         return new ChallengeQuestion[0];
     }
-
 
     public void setChallengeQuestions(ChallengeQuestion[] challengeQuestions, String tenantDomain)
             throws AxisFault {

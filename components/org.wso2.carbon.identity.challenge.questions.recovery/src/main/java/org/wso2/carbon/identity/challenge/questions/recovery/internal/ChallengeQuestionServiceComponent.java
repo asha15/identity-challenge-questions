@@ -10,6 +10,7 @@ import org.osgi.service.component.annotations.Reference;
 import org.osgi.service.component.annotations.ReferenceCardinality;
 import org.osgi.service.component.annotations.ReferencePolicy;
 import org.wso2.carbon.identity.application.authentication.framework.handler.request.PostAuthenticationHandler;
+import org.wso2.carbon.identity.challenge.questions.recovery.listener.TenantManagementListener;
 import org.wso2.carbon.identity.core.persistence.registry.RegistryResourceMgtService;
 import org.wso2.carbon.identity.event.handler.AbstractEventHandler;
 import org.wso2.carbon.identity.recovery.IdentityRecoveryException;
@@ -20,6 +21,7 @@ import org.wso2.carbon.identity.challenge.questions.recovery.ChallengeQuestionMa
 import org.wso2.carbon.identity.challenge.questions.recovery.password.SecurityQuestionPasswordRecoveryManager;
 import org.wso2.carbon.identity.recovery.internal.IdentityRecoveryServiceDataHolder;
 import org.wso2.carbon.identity.recovery.services.password.PasswordRecoveryManager;
+import org.wso2.carbon.stratos.common.listeners.TenantMgtListener;
 import org.wso2.carbon.utils.multitenancy.MultitenantConstants;
 
 @Component(
@@ -50,11 +52,14 @@ public class ChallengeQuestionServiceComponent {
                     postAuthnMissingChallengeQuestions, null);
             ctxt.getBundleContext().registerService(AbstractEventHandler.class.getName(),
                     new ChallengeAnswerValidationHandler(), null);
+            // register the tenant management listener
+            TenantMgtListener tenantMgtListener = new TenantManagementListener();
+            ctxt.getBundleContext().registerService(TenantMgtListener.class.getName(), tenantMgtListener, null);
             if (log.isDebugEnabled()) {
-                log.debug("Enterprise IDP Authenticator bundle is activated");
+                log.debug("Challenge questions recovery bundle is activated");
             }
         } catch (Exception e) {
-            log.error(" Error while activating enterprise idp authenticator ", e);
+            log.error(" Error while activating Challenge questions recovery bundle ", e);
         }
 
         // register default challenge questions
