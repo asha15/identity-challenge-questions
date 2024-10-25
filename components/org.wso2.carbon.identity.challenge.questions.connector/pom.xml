@@ -21,7 +21,7 @@
     <parent>
         <groupId>org.wso2.carbon.identity.challenge.questions</groupId>
         <artifactId>identity-challenge-questions</artifactId>
-        <version>1.0.1-SNAPSHOT</version>
+        <version>1.0.7-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
 
@@ -34,7 +34,7 @@
                 <artifactId>maven-assembly-plugin</artifactId>
                 <executions>
                     <execution>
-                        <id>sts-components</id>
+                        <id>challenge-questions-components</id>
                         <phase>package</phase>
                         <goals>
                             <goal>single</goal>
